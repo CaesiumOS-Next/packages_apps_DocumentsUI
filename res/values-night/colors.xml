@@ -22,6 +22,9 @@
     <color name="secondary">#3D8AB4F8</color>
     <color name="hairline">#5F6368</color>
 
+    <color name="app_icon_background">#000000</color>
+
+
     <color name="empty_state_text_color">@android:color/white</color>
     <color name="error_image_color">@android:color/white</color>
 
